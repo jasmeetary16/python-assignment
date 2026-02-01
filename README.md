@@ -50,7 +50,7 @@ Economics employs Python for various practical applications which include the fo
 - Students use it to complete their academic writing assignments and research projects
 - The process involves conceptual replication of economic models
 
-**REAL-LIFE OR BUSINESS USE CASE**
+**REAL-LIFE OR BUSINESS USE CASE:**
 A government research department may use Python to study unemployment data which extends over multiple years. Economists can discover patterns through data organization and data summary work which reveals both seasonal unemployment patterns and extended time duration trends. The insights enable policymakers to create improved employment programs while they distribute resources in a more efficient manner.
 
 Financial institutions apply Python to their operations because they need to track market indicators and make investment decisions.
